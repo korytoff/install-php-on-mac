@@ -1,2 +1,3 @@
-# install-php-on-mac
-Install PHP on MacOS
+# Install PHP on MacOS
+
+## Basic variant with MAMP
